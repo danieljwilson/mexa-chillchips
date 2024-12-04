@@ -1,6 +1,9 @@
 # Mexa Hackathon
 ## Team Chillchips
 
+# Presentation
+[Slide Deck](https://docs.google.com/presentation/d/1zBoC0VN6eME3D4t5pNumsiwU-TpcXqB-50IVojJuiUw/edit#slide=id.g31b4f433ed3_0_0)
+
 # Resources
 
 ## Datasets
@@ -12,3 +15,4 @@
 ## Other references
 - [Description](https://github.com/neuromatch/mexa-hack/blob/main/virtual-hack-1.md)
 - [Example jupyter notebook](https://colab.research.google.com/drive/1nGgHF8tJHK9G2k_94S6OzNMK7jYannss?usp=sharing)
+
