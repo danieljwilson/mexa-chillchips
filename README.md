@@ -1,8 +1,6 @@
 # Mexa Hackathon
 ## Team Chillchips
 
----
-
 # Resources
 
 ## Datasets
