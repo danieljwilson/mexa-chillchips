@@ -9,3 +9,6 @@
 3. [Counseling Conversation Analysis](https://snap.stanford.edu/counseling/?utm_source=chatgpt.com#access)
 
 
+## Other references
+- [Description](https://github.com/neuromatch/mexa-hack/blob/main/virtual-hack-1.md)
+- [Example jupyter notebook](https://colab.research.google.com/drive/1nGgHF8tJHK9G2k_94S6OzNMK7jYannss?usp=sharing)
